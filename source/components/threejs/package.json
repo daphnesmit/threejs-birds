@@ -1,0 +1,11 @@
+{
+    "name": "dept-threejs",
+    "license": "MIT",
+    "repository": "https://bitbucket.org/tamtam-nl/tamtam-frontend-shelf",
+    "dependencies": {
+        "dat.gui": "^0.7.6",
+        "gsap": "^3.0.1",
+        "three": "^0.110.0",
+        "three-orbitcontrols": "^2.110.1"
+    }
+}

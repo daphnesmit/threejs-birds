@@ -1,0 +1,13 @@
+.c-threejs {
+  background: #f0eadd;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+
+.threejs__canvas {
+  width: 100%;
+  height: 100%;
+  display: block;
+}

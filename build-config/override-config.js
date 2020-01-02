@@ -4,6 +4,9 @@ const overrideConfig = {
       path: 'example-override',
     },
   },
+  gulp: {
+    debug: false,
+  },
 }
 
 module.exports = overrideConfig
